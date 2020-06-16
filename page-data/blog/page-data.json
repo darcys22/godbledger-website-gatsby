@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-pages-blog-js","path":"/blog","result":{"data":{"allMarkdownRemark":{"edges":[{"node":{"fields":{"slug":"/blog/test-blog"},"id":"59fdca31-63a4-5457-bbad-4de585858f21","excerpt":"Testing this page making a blog","frontmatter":{"date":"June 16, 2020","title":"test-blog","rootPage":"/blog"}}}]}},"pageContext":{}}}
