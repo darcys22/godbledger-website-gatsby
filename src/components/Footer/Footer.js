@@ -42,11 +42,6 @@ class Footer extends Component {
                 <a href="https://github.com/darcys22/godbledger">Source code</a>
               </FooterListItem>
               <FooterListItem>
-                <a href="https://github.com/PostHog/posthog/blob/master/CONTRIBUTING.md">
-                  Contribute
-                </a>
-              </FooterListItem>
-              <FooterListItem>
                 <a href="https://github.com/darcys22/godbledger/issues">Issues</a>
               </FooterListItem>
             </Col>

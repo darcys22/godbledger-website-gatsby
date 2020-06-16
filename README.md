@@ -11,7 +11,6 @@ Please feel free to suggest any changes - see our contributing guide.
     Clone the repo then navigate into your new site’s directory and start it up.
 
     ```sh
-    cd posthog.com/
     yarn install
     #gatsby develop
 
@@ -26,12 +25,11 @@ Please feel free to suggest any changes - see our contributing guide.
 
 1.  **Deploy**
 
-    Clone the repo then navigate into your new site’s directory and start it up.
+    Make sure the folder is linked to the Github Repo. This will deploy to gh-pages
 
     ```sh
-    cd posthog.com/
     yarn install
-    #gatsby develop
+    npm install gh-pages
 
     yarn deploy
     ```

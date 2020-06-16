@@ -27,26 +27,26 @@ const IndexPage = () => {
       </Row>
       <Row gutter={[16, 8]}>
         <Col span={16} className="gutter-row">
-          <p>Join 1,000 companies using PostHog.</p>
+          <p>Join the open financial movement</p>
         </Col>
       </Row>
       <Row gutter={[24, 8]}>
         <Col xs={7} sm={6} md={5} lg={4} xl={4} className="gutter-row">
-          <a href="https://app.posthog.com/signup">
+          <a href="https://github.com/darcys22/godbledger/releases/tag/v0.2.1">
             <Button
               type="primary"
               size="large"
               icon="right-circle"
               style={{ marginRight: 10 }}
             >
-              Try Hosted
+              Try it yourself
             </Button>
           </a>
         </Col>
         <Col xs={7} sm={6} md={5} lg={4} xl={4} className="gutter-row">
-          <a href="/docs/deployment">
+          <a href="https://github.com/darcys22/godbledger/wiki/Quickstart">
             <Button type="secondary" size="large">
-              Self-Managed
+              Install Guide
             </Button>
           </a>
         </Col>
@@ -96,26 +96,26 @@ const IndexPage = () => {
       </Row>
       <Row gutter={[24, 8]}>
         <Col span={24} className="header-row" align="middle">
-          <h2>PostHog for Enterprise</h2>
+          <h2>GoDBLedger for Enterprise</h2>
         </Col>
         <Col span={8} className="gutter-row" align="middle">
           <h3>Self-managed</h3>
           <p>
-            PostHog can be deployed in your cloud, for painless adoption and
+            GoDBLedger can be deployed in your cloud, for painless adoption and
             onboarding.
           </p>
         </Col>
         <Col span={8} className="gutter-row" align="middle">
           <h3>Unlimited volume</h3>
           <p>
-            PostHog is built to scale. That includes our open core pricing
+            GoDBLedger is built to scale. That includes our open core pricing
             model.
           </p>
         </Col>
         <Col span={8} className="gutter-row" align="middle">
           <h3>Support</h3>
           <p>
-            PostHog can manage your deployment on your infrastructure. All the
+            We can manage your deployment on your infrastructure. All the
             benefits of self-hosting with the reliability and scalability of the
             cloud.
           </p>
@@ -142,9 +142,9 @@ const IndexPage = () => {
       </Row>
       <Row gutter={[24, 96]}>
         <Col span={24} className="gutter-row header-row" align="middle">
-          <h2>What's new?</h2>
-          <p>Version 1.8.0</p>
-          <Link to="blog/the-posthog-array-1-8-0">
+          <h2>Releases</h2>
+          <p>Version 0.2.1</p>
+          <Link to="https://github.com/darcys22/godbledger/releases/tag/v0.2.1">
             <Button type="information" size="large">
               Release notes
             </Button>
