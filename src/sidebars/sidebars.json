@@ -1,0 +1,39 @@
+[
+  {
+    "entry": "Docs",
+    "name": "Docs",
+    "child_entries":[
+      "Deployment"
+    ]
+  },
+  {
+    "entry":"Deployment",
+    "name":"Deployment",
+    "items": [
+      "docs/deployment",
+      "docs/deployment/hosting-costs"
+    ]
+  },
+  {
+    "entry":"Integrations",
+    "name":"Integrations",
+    "items": [
+      "docs/integrations"
+    ]
+  },
+  {
+    "entry": "Blog",
+    "name": "Blog",
+    "child_entries":
+    [
+      "Company Blog"
+    ]
+  },
+  {
+    "entry":"Company Blog",
+    "name":"Company Blog",
+    "items": [
+      "blog/test-blog"
+    ]
+  }
+]

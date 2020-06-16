@@ -1,0 +1,14 @@
+[
+  { 
+    "name": "Docs",
+    "a":  "https://github.com/darcys22/godbledger/wiki"
+  },
+  {
+  	"name":"Install",
+  	"link":"/docs/deployment"
+  },
+  { 
+    "name": "GitHub",
+    "a":  "https://github.com/darcys22/godbledger"
+  }
+]
