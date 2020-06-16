@@ -42,7 +42,7 @@ function Template({
   return (
     <Layout onPostPage={true}>
     <SEO
-      title={frontmatter.title + ' - PostHog docs'}
+      title={frontmatter.title + ' - GoDBLedger docs'}
       description={frontmatter.description || excerpt}
       pathname={markdownRemark.fields.slug}
       article

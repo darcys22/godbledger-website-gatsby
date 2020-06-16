@@ -127,7 +127,7 @@ const IndexPage = () => {
         </Col>
       </Row>
       <Row span={21} gutter={[24, 24]}>
-        <Col xs={0} sm={0} md={3} lg={3} xl={3}></Col>
+        <Col xs={0} sm={0} md={6} lg={6} xl={6}></Col>
         <a href="https://github.com/darcys22/godbledger">
           <Col xs={8} sm={8} md={6} lg={6} xl={6} align="middle">
             <img alt="GitHub" src={communityGithub} className="hover-shadow" />
@@ -138,7 +138,7 @@ const IndexPage = () => {
             <img alt="Discord" src={communitySlack} className="hover-shadow" />
           </Col>
         </a>
-        <Col xs={0} sm={0} md={3} lg={3} xl={3}></Col>
+        <Col xs={0} sm={0} md={6} lg={6} xl={6}></Col>
       </Row>
       <Row gutter={[24, 96]}>
         <Col span={24} className="gutter-row header-row" align="middle">

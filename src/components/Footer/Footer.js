@@ -23,7 +23,7 @@ class Footer extends Component {
           </Col>
           <Col xs={24} sm={24} md={24} lg={16} xl={16} className="gutter-row">
             <Col xs={24} sm={24} md={4} lg={4} xl={4} className="gutter-row">
-              <span className="footer-links-header" justify="space-around">Why PostHog</span>
+              <span className="footer-links-header" justify="space-around">Why GoDBLedger</span>
               <FooterListItem to="/faq">Features</FooterListItem>
             </Col>
             <Col xs={24} sm={24} md={4} lg={4} xl={4} className="gutter-row">

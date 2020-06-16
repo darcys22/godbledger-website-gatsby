@@ -1,8 +1,4 @@
-# PostHog.com - docs, website and handbook
-
-This is the new company website / docs and handbook.
-
-Please feel free to suggest any changes - see our contributing guide.
+# GoDBLedger.com - docs, website and blog
 
 ## Quick Start
 
